@@ -1,0 +1,17 @@
+@import 'colors';
+
+body {
+  background-color: $clouds;
+}
+
+.initial-message {
+    color: $light-midnight;
+
+    &:hover {
+        background-color: $light-blue;
+    }
+}
+
+.server-message {
+    color: black;
+}
