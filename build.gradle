@@ -9,7 +9,8 @@ plugins {
     id 'com.moowork.node' version '1.2.0'
 }
 
-node {  
+node {
+    version = '10.5.0'
     download = true
 }
 
