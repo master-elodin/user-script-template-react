@@ -25,6 +25,6 @@
   "dependencies": {
     "jquery-ajax": "^2.1.4",
     "react": "^16.4.0",
-    "react-dom": "^16.4.0"
+    "react-dom": "^16.4.2"
   }
 }
